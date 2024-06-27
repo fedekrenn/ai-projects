@@ -1,0 +1,16 @@
+{
+  "name": "gemini",
+  "version": "1.0.0",
+  "description": "Proyecto con Gemini de Google",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "keywords": [],
+  "author": "Federico Krenn",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.14.1"
+  }
+}
